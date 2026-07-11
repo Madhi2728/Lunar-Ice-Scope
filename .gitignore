@@ -1,0 +1,9 @@
+data/
+*.dat
+*.IMG
+*.img
+*.tif
+*.TIF
+outputs/cropped/
+__pycache__/
+*.pyc
