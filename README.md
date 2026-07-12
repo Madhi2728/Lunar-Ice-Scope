@@ -1,4 +1,4 @@
-# BAH2026 Problem Statement 8
+# ISRO - BAH2026
 ## Detection and Characterization of Subsurface Ice in Lunar South Polar Regions
 ### Using Chandrayaan-2 DFSAR Radar and LOLA DEM Data
 
